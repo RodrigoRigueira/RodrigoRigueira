@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RodrigoRigueira
 - 👀 I’m interested in programation in any programming language
-- 🌱 I’m currently learning Pynthon on Software Engineer
+- 🌱 I’m currently learning Python on Software Engineer
 - 💞️ I’m looking to collaborate on whatever you need
 - 📫 How to reach me through my profile here and by email rodrigorigueira86@gmail.com
 
