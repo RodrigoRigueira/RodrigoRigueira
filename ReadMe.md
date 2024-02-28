@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Engenharia de Software<br>👯Estou à procura de Estágio<br>
+🔭 Sou estudante de Engenharia de Software<br>👯Estou à procura de Oportunidades como Dev<br>
 
 
 ## 🌐 Socials:
